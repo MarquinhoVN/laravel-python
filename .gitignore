@@ -1,5 +1,6 @@
-/.env
+.env
 /.docker/python_app/venv/
 /laravel/vendor
 /laravel/node_modules
 /laravel/.env
+/.idea
